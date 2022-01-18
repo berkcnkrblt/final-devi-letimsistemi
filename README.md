@@ -2,7 +2,7 @@
 
 ## Grup Üyeleri:
 
-![ekip](https://drive.google.com/uc?export=view&id=1FbO1EvGYAAAvNWumVvaYAbtoCQ_uLVdO)
+![ekip](https://drive.google.com/file/d/1Add3RIgbI7BD0tWEWDsoCKJIhudf336k/view?usp=sharing)
 ## Ödev Konusu:
 
 #### Powershell scripti ile powershell schedule job tasarlanacakır job ın çalıştırcağı komut içerik olarak; İşletim sisteminde arkada çalışan programları task manager mantığı ile izleyerek Cpu yüzdesi %10 veya yukarı işlemleribir log dosyası oluşturulup Örnek: "Task.log", içine  zaman damgası ile "2021-01-10 13:12:04,634 text.exe Cpu 20%" uygulama isimleri ve cpu yüzdeleri kaydedilecektir
